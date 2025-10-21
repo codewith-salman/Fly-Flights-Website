@@ -40,7 +40,6 @@ Perfect for showcasing flight options, destinations, and travel deals in a clean
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
